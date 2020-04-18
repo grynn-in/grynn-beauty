@@ -13,6 +13,19 @@ fields:
   label: description
 - name: draft
   type: boolean
-  label: Draft
+  label: draft
+  default: true
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: image
+  description: Put the header image of the blog here.
+- name: author
+  type: text
+  config:
+    required: false
+  label: author
+  description: Who is writing the blog?
 pages:
 - content/blog/unbox-videos-grynn-face-cream-is-here-and-it-is-amazing.md
