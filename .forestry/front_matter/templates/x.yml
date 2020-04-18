@@ -11,10 +11,6 @@ fields:
 - type: text
   name: description
   label: description
-- name: draft
-  type: boolean
-  label: draft
-  default: true
 - name: image
   type: file
   config:
