@@ -33,4 +33,5 @@ fields:
       format: markdown
   label: content
 pages:
+- content/blog/unbox-hugo-e-commerce-is-awesone.md
 - content/blog/unbox-videos-grynn-face-cream-is-here-and-it-is-amazing.md
