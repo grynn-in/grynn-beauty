@@ -27,5 +27,14 @@ fields:
     required: false
   label: author
   description: Who is writing the blog?
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: content
 pages:
 - content/blog/unbox-videos-grynn-face-cream-is-here-and-it-is-amazing.md
