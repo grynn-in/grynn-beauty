@@ -8,6 +8,7 @@ shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed d
   nonumy eirmod tempor invidunt ut
 productID: "9"
 images:
+- image: https://res.cloudinary.com/grynn-gmbh/image/upload/t_vmi_350/v1592255035/vmi/VAS_7106-1-510x764_q4qkse.jpg
 - image: https://res.cloudinary.com/grynn-gmbh/image/upload/t_vmi_350/v1592255035/vmi/VAS_7101-1-510x764_if28nv.jpg
 
 ---
