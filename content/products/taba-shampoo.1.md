@@ -8,6 +8,7 @@ shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed d
   nonumy eirmod tempor invidunt ut
 productID: "7"
 images:
+- image: "/uploads/Paithani-Seagreen-with-Blue-Border-5.jpg"
 - image: "/uploads/Paithani-Seagreen-with-Blue-Border-4.jpg"
 - image: "/uploads/Paithani-Seagreen-with-Blue-Border-3.jpg"
 - image: "/uploads/Paithani-Seagreen-with-Blue-Border-2.jpg"
