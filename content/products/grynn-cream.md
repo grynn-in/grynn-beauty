@@ -7,9 +7,7 @@ priceBefore: 25.00$
 shortDescription: Grynn Cream
 productID: "200"
 images:
-- image: "/uploads/vas_7108-510x764.jpg"
-- image: "/uploads/vas_7106-1-510x764.jpg"
-- image: "/uploads/vas_7101-1-510x764.jpg"
+- image: https://res.cloudinary.com/grynn-gmbh/image/upload/t_vmi_350/v1592252563/vmi/Paithani-Seagreen-with-Blue-Border-5_xskuav.jpg
 
 ---
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. 
