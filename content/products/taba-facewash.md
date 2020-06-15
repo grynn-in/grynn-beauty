@@ -8,6 +8,7 @@ shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed d
   nonumy eirmod tempor invidunt ut
 productID: "6"
 images:
+- image: ''
 - image: "/uploads/Traditional-Lime-Green-Khun-saree-–-With-Pink-Border-1-6-510x790.jpg"
 
 ---
