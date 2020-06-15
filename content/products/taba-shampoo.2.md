@@ -8,6 +8,7 @@ shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed d
   nonumy eirmod tempor invidunt ut
 productID: "8"
 images:
+- image: https://res.cloudinary.com/grynn-gmbh/image/upload/t_vmi_350/v1592252564/vmi/South-Paithani-Pink-with-Green-Border-and-Floral-Buttis-1_fii92o.jpg
 - image: https://res.cloudinary.com/grynn-gmbh/image/upload/t_vmi_350/v1592252564/vmi/South-Paithani-Pink-with-Green-Border-and-Floral-Buttis-2_whdmia.jpg
 
 ---
