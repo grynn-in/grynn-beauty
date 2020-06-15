@@ -7,7 +7,7 @@ priceBefore: 25.00$
 shortDescription: Grynn Cream
 productID: "200"
 images:
-- image: uploads/vas_7101-1-100x100.jpg
+- image: "/uploads/vas_7101-1-100x100.jpg"
 - image: uploads/vas_7101-1-100x100.jpg
 
 ---
