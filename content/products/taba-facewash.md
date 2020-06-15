@@ -8,6 +8,7 @@ shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed d
   nonumy eirmod tempor invidunt ut
 productID: "6"
 images:
+- image: "/uploads/VAS_8780-510x764.jpg"
 - image: "/uploads/VAS_8775-510x764.jpg"
 - image: "/uploads/VAS_8776-510x764.jpg"
 - image: "/uploads/Traditional-Lime-Green-Khun-saree-–-With-Pink-Border-1-6-510x790.jpg"
