@@ -8,6 +8,7 @@ shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed d
   nonumy eirmod tempor invidunt ut
 productID: "7"
 images:
+- image: https://res.cloudinary.com/grynn-gmbh/image/upload/t_vmi_350/v1592252563/vmi/Paithani-Seagreen-with-Blue-Border-4_ilzrjk.jpg
 - image: https://res.cloudinary.com/grynn-gmbh/image/upload/t_vmi_350/v1592252563/vmi/Paithani-Seagreen-with-Blue-Border-6_wgwcs1.jpg
 
 ---
