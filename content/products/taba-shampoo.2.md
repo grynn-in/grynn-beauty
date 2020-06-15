@@ -8,11 +8,7 @@ shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed d
   nonumy eirmod tempor invidunt ut
 productID: "8"
 images:
-- image: "/uploads/South-Paithani-Pink-with-Green-Border-and-Floral-Buttis-5.jpg"
-- image: "/uploads/South-Paithani-Pink-with-Green-Border-and-Floral-Buttis-4.jpg"
-- image: "/uploads/South-Paithani-Pink-with-Green-Border-and-Floral-Buttis-3.jpg"
-- image: "/uploads/South-Paithani-Pink-with-Green-Border-and-Floral-Buttis-2.jpg"
-- image: "/uploads/South-Paithani-Pink-with-Green-Border-and-Floral-Buttis-1.jpg"
+- image: https://res.cloudinary.com/grynn-gmbh/image/upload/t_vmi_350/v1592252564/vmi/South-Paithani-Pink-with-Green-Border-and-Floral-Buttis-2_whdmia.jpg
 
 ---
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
