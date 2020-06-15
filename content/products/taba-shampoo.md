@@ -8,10 +8,7 @@ shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed d
   nonumy eirmod tempor invidunt ut
 productID: "9"
 images:
-- image: "/uploads/Traditional-Lime-Green-Khun-saree-–-With-Pink-Border-1-6-510x790.jpg"
-- image: "/uploads/Traditional-Lime-Green-Khun-saree-–-With-Pink-Border-1-5-510x790.jpg"
-- image: "/uploads/Traditional-Lime-Green-Khun-saree-–-With-Pink-Border-1-3-510x790.jpg"
-- image: "/uploads/Traditional-Lime-Green-Khun-saree-–-With-Pink-Border-1-2-510x790.jpg"
+- image: https://res.cloudinary.com/grynn-gmbh/image/upload/c_scale,w_350/v1592252565/vmi/Traditional-Lime-Green-Khun-saree-_-With-Pink-Border-1-3-510x790_npgwb9.webp
 
 ---
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
