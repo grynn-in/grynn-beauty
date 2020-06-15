@@ -8,11 +8,7 @@ shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed d
   nonumy eirmod tempor invidunt ut
 productID: "6"
 images:
-- image: "/uploads/VAS_8784-510x764.jpg"
-- image: "/uploads/VAS_8782-510x764.jpg"
-- image: "/uploads/VAS_8780-510x764.jpg"
-- image: "/uploads/VAS_8775-510x764.jpg"
-- image: "/uploads/VAS_8776-510x764.jpg"
+- image: https://res.cloudinary.com/grynn-gmbh/image/upload/t_vmi_350/v1592255035/vmi/VAS_7106-1-510x764_q4qkse.jpg
 
 ---
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
