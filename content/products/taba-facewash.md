@@ -8,6 +8,7 @@ shortDescription: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed d
   nonumy eirmod tempor invidunt ut
 productID: "6"
 images:
+- image: "/uploads/VAS_8784-510x764.jpg"
 - image: "/uploads/VAS_8782-510x764.jpg"
 - image: "/uploads/VAS_8780-510x764.jpg"
 - image: "/uploads/VAS_8775-510x764.jpg"
