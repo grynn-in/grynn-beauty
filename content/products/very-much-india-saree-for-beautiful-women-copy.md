@@ -6,7 +6,7 @@ price = "2000.00$"
 priceBefore = "25.00$"
 productID = "200"
 shortDescription = "Grynn Cream"
-title = "Very Much India Saree For Beautiful Women-(copy)"
+title = "Saree For Beautiful Women-(copy)"
 [[images]]
 image = "https://res.cloudinary.com/grynn-gmbh/image/upload/t_vmi_350/v1592252563/vmi/Paithani-Seagreen-with-Blue-Border-1_j9ji1e.jpg"
 [[images]]
