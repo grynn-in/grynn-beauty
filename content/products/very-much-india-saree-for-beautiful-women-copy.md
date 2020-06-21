@@ -1,7 +1,6 @@
 +++
 date = 2019-10-17T05:22:16Z
 description = "Grynn Cream Best"
-draft = true
 price = "2000.00$"
 priceBefore = "25.00$"
 productID = "200"
