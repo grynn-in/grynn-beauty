@@ -1,7 +1,6 @@
 +++
 date = 2019-10-17T05:22:16Z
 description = "Pure Silk Handloom"
-draft = true
 price = "30.00$"
 priceBefore = "125.00$"
 productID = "7"
