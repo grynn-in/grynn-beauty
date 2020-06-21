@@ -1,7 +1,7 @@
 +++
 date = 2019-10-17T05:22:16Z
 description = "Grynn Cream Best"
-price = "2000.00$"
+price = "200.00$"
 priceBefore = "25.00$"
 productID = "200"
 shortDescription = "Grynn Cream"
