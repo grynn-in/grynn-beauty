@@ -1,7 +1,6 @@
 +++
 date = 2019-10-17T05:22:16Z
 description = "Paithani Pink "
-draft = true
 price = "120.00$"
 priceBefore = "125.00$"
 productID = "9"
