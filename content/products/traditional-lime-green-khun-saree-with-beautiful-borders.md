@@ -2,7 +2,7 @@
 date = 2019-10-17T05:22:16Z
 description = "Paithani Pink "
 price = "120.00$"
-priceBefore = "125.00$"
+priceBefore = "2000"
 productID = "9"
 shortDescription = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
 title = "Traditional Lime Green Khun saree – With Beautiful borders"
