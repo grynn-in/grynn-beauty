@@ -4,7 +4,11 @@ banner:
   title : "Grynn has made the best cream!"
   content : "Very Much Indian - Pure Cotton Hand Printed Pink White and Black Weave"
   image : "images/banner.png"
-
+  # button
+  button:
+    enable : true
+    label : "All Products"
+    link : "products"
   # demo video
   video:
     enable : true
