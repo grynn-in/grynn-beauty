@@ -2,7 +2,7 @@
 title: Very Much India Saree For Beautiful Women XX
 date: 2019-10-17T05:22:16.000+00:00
 description: Grynn Cream Best
-price: 200.00$
+price: 20.00$
 priceBefore: 2500.00$
 shortDescription: Grynn Cream
 productID: "200"
