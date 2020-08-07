@@ -3,7 +3,7 @@ author = "Deepak Pai"
 content = ""
 date = 2020-04-17T22:00:00Z
 description = ""
-image = "/uploads/abstract-background-4756987_1920.jpg"
+image = "/uploads/post-2-1.jpg"
 title = "Unbox : Hugo E-commerce is awesome"
 
 +++
