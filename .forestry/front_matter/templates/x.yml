@@ -32,6 +32,10 @@ fields:
     schema:
       format: markdown
   label: content
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
 pages:
 - content/blog/unbox-hugo-e-commerce-is-awesone.md
 - content/blog/unbox-videos-demo-version.md
