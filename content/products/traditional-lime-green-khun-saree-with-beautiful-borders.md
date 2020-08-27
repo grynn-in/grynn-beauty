@@ -5,7 +5,7 @@ price = "120.00$"
 priceBefore = "2000"
 productID = "9"
 shortDescription = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
-title = "Traditional Lime Green Khun saree – With Beautiful borders"
+title = "Traditional Lime Green Khun Saree – With Beautiful borders"
 [[images]]
 image = "https://res.cloudinary.com/grynn-gmbh/image/upload/t_vmi_350/v1592255035/vmi/VAS_7113-1-510x764_czmesg.jpg"
 [[images]]
