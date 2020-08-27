@@ -19,6 +19,7 @@ sections:
   label: Blog
   create: documents
   match: "**/*"
+  exclude: _index.md
   templates:
   - blog-post
 - type: directory
