@@ -1,12 +1,11 @@
 +++
 date = 2019-10-17T05:22:16Z
 description = "Pure Silk Handloom"
-draft = true
 price = "30.00$"
 priceBefore = "125.00$"
 productID = "7"
 shortDescription = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
-title = "Paithani Green Saree, upward look"
+title = "Latest"
 [[images]]
 image = "https://res.cloudinary.com/grynn-gmbh/image/upload/t_vmi_350/v1592252563/vmi/Paithani-Seagreen-with-Blue-Border-7_yklwar.jpg"
 [[images]]
