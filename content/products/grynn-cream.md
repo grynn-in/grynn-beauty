@@ -10,7 +10,6 @@ images:
 - image: https://res.cloudinary.com/grynn-gmbh/image/upload/t_vmi_350/v1592252563/vmi/Paithani-Seagreen-with-Blue-Border-1_j9ji1e.jpg
 - image: https://res.cloudinary.com/grynn-gmbh/image/upload/t_vmi_350/v1592252563/vmi/Paithani-Seagreen-with-Blue-Border-4_ilzrjk.jpg
 - image: https://res.cloudinary.com/grynn-gmbh/image/upload/t_vmi_350/v1592252563/vmi/Paithani-Seagreen-with-Blue-Border-5_xskuav.jpg
-draft: true
 
 ---
 | Tables | Are | Cool |
