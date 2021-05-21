@@ -1,4 +1,4 @@
-baseURL = "https://beauty.hugo.grr.fyi/"
+baseURL = "https://peaceful-archimedes-3e6ea5.netlify.app/"
 languageCode = "en-us"
 title = "Grynn Beauty Demo"
 theme = "hargo"
